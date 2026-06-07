@@ -1,12 +1,44 @@
+:root {
+  --main-bg: #121212;
+  --card-bg: #1e1e1e;
+  --text-color: #e0e0e0;
+  --gold-accent: #ffd700;
+  
+}
 
-h2 {
-  color: rgba(87, 10, 143, 0.986);
+body{
+  background-color:var(--main-bg) ;
+}
+
+.card{
+  border: 1px solid var(--gold-accent );
+  background-color: var(--card-bg);
+  border-radius: 40px;
+  margin: 20px;
+  padding: 20px;
+}
+.card p{
+  margin: 20px;
+}
+
+h1,h2,h3,p,span,li,h4{
+  color :var(--text-color);
+  margin: 5px;
 }
 
 img {
   width: 100px;
   height: 100px;
+  margin:10px;
 }
 
+h3{
+  color: #00f5d4 ;
+  /* ! اللون م لايق ع الويب  */
+}
+
+h4{
+  margin: 15px;
+}
 
 
