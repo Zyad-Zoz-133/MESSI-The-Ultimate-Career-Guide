@@ -34,7 +34,14 @@ img {
 
 h3{
   color: #00f5d4 ;
+  font-size: x-large;
   /* ! اللون م لايق ع الويب  */
+}
+
+
+
+p,li,h4{
+  font-size: larger;
 }
 
 h4{
