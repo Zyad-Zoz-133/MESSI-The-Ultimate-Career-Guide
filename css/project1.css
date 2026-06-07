@@ -27,9 +27,11 @@ h1,h2,h3,p,span,li,h4{
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: auto;
+  height: 150px;
   margin:10px;
+  margin-top: 10px;
+  object-fit: contain;
 }
 
 h3{
@@ -38,6 +40,9 @@ h3{
   /* ! اللون م لايق ع الويب  */
 }
 
+hr{
+  margin: 10px;
+}
 
 
 p,li,h4{
@@ -48,4 +53,7 @@ h4{
   margin: 15px;
 }
 
+.All-time-trophies {
+  list-style: none;
+}
 
