@@ -267,3 +267,45 @@ h2{
   color: #b8860b;
 }
 
+@media (max-width: 768px) {
+  .top-part {
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+  }
+
+  .left-side,
+  .right-side {
+    width: 100%;
+  }
+
+  .messi-info {
+    width: 100%;
+    margin: 0;
+  }
+
+  .comment-card {
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
+
+  .comment-info {
+    padding-right: 0;
+  }
+
+  .comment-card audio {
+    width: 100%;
+  }
+
+  .table {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+}
