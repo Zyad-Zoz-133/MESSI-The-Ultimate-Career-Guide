@@ -4,6 +4,16 @@ An interactive, responsive, and media-rich web application dedicated to tracking
 
 ---
 
+## **🛠️ Development Tools**
+
+This project was built and managed using the following industry-standard tools:
+* **VS Code:** The primary text editor used for writing, formatting, and debugging the C++ code.
+* **Git:** Used for local version control to track changes and manage code history.
+* **GitHub:** Used for hosting the repository online, managing backup history, and deploying the live site via GitHub Pages.
+
+---
+
+
 ## **🔗 Live Demo**
 
 You can visit and experience the live website deployed on GitHub Pages here:
