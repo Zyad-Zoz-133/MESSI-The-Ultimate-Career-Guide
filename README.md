@@ -9,9 +9,6 @@ An interactive, responsive, and media-rich web application dedicated to tracking
 You can visit and experience the live website deployed on GitHub Pages here:
 👉 **[Click Here to View the Live Project](https://zyad-zoz-133.github.io/MESSI-The-Ultimate-Career-Guide/)**
 
-*(Make sure to replace the text inside the brackets with your actual GitHub Pages URL!)*
-
----
 
 ## **Key Features**
 
