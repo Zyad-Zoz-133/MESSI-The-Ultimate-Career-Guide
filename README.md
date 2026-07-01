@@ -1,6 +1,15 @@
-﻿# ⚽ MESSI: The Ultimate Career Guide
+# ⚽ MESSI: The Ultimate Career Guide
 
 An interactive, responsive, and media-rich web application dedicated to tracking the legendary career of Lionel Messi. This platform offers an immersive experience for football fans by showcasing real-time statistics, a comprehensive season-by-season historic timeline from 2004 up to 2026, and integrated iconic audio commentary.
+
+---
+
+## **🔗 Live Demo**
+
+You can visit and experience the live website deployed on GitHub Pages here:
+👉 **[Click Here to View the Live Project](https://zyad-zoz-133.github.io/MESSI-The-Ultimate-Career-Guide/)**
+
+*(Make sure to replace the text inside the brackets with your actual GitHub Pages URL!)*
 
 ---
 
@@ -13,7 +22,7 @@ An interactive, responsive, and media-rich web application dedicated to tracking
 
 ---
 
-## **Getting Started**
+## **Getting Started (For Local Review)**
 
 ### **Prerequisites**
 To view and run this project locally, you only need a modern web browser (such as Google Chrome, Mozilla Firefox, or Microsoft Edge).
@@ -54,4 +63,3 @@ This project is **strictly closed-source**. All source code, assets, audio files
 
 * **No Redistribution:** You may not copy, distribute, modify, sub-license, or publicly replicate this source code or any of its media elements without explicit prior written permission from the owner.
 * **Personal Use Only:** Accessing the repository is limited solely to reviewing and evaluating the live implementation.
-
